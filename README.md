@@ -1,6 +1,7 @@
 # Identity: Profile Card [Cryptonet Technologies Assignment]
 
 This project is a simple user profile card implemented using ReactJs for the UI, Tailwind CSS for styling, and React-parallax-tilt for an engaging animation effect.
+[Live Demo](https://sumit-userprofile.netlify.app/)
 
 ## Table of Contents
 
